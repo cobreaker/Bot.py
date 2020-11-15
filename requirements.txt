@@ -1,0 +1,5 @@
+discord
+youtube_dl
+profanity
+ffmpeg
+datetime
